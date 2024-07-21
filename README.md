@@ -2,7 +2,7 @@
   
  
 
-  <a href="github.io/futras/" ><strong>➥ Live Demo</strong></a>
+  <a href="https://sarthakkk-17.github.io/fitness/" ><strong>➥ Live Demo</strong></a>
 
 
 
